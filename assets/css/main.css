@@ -8227,7 +8227,6 @@ input, select, textarea {
 	#wrapper {
 		background-color: inherit;
 		width: 100%;
-		overflow-x: hidden;
 	}
 
 		#wrapper > .invert {
