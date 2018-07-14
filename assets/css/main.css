@@ -2837,6 +2837,7 @@ input, select, textarea {
 		position: relative;
 		margin: -0.65rem 0 1.5rem 0;
 		font-style: italic;
+		color: #000000;
 	}
 
 	header h1 + p {
