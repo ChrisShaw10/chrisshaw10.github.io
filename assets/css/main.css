@@ -8529,5 +8529,6 @@ footer a {
 }
 
  header h1 {
-		    color: #ffffff;
+	 background-color: hsla (0, 0%, 100%,0.4);
+	 margin-bottom: 20px;
 	    }
