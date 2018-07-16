@@ -8585,7 +8585,6 @@ footer a {
   /* vertically center the slider content */
   vertical-align: middle;
   text-align: center;
-  padding-top: 10%;
 	display: table-cell;
 }
 .cd-slider > li h2, .cd-slider > li p {
