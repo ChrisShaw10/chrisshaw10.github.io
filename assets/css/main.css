@@ -8546,6 +8546,7 @@ footer a {
   margin: 2em auto;
   /* hide horizontal scrollbar on IE11 */
   overflow-x: hidden;
+	z-index: 0;
 }
 
 .cd-slider > li {
