@@ -2638,9 +2638,6 @@ input, select, textarea {
 		list-style: disc;
 	}
 
-		ul li {
-			padding-left: 0.5rem;
-		}
 
 		ul.alt {
 			list-style: none;
