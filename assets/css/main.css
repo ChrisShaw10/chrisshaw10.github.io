@@ -8539,9 +8539,7 @@ footer a {
 
 .cd-slider-wrapper {
   position: relative;
-  width: 90%;
-  max-width: 1024px;
-  margin: 2em auto;
+  width: 100%;
   /* hide horizontal scrollbar on IE11 */
   overflow-x: hidden;
 	z-index: 0;
