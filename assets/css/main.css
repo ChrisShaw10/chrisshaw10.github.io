@@ -8809,3 +8809,9 @@ svg cover layer
   -moz-transition: opacity 0.6s;
   transition: opacity 0.6s;
 }
+
+.cd-slider > .button {
+	box-shadow: rgba(255, 255, 255, 0.9);
+	color: #ffffff;
+	margin-bottom: 20px;
+}
