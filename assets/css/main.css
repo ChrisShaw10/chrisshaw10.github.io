@@ -8593,7 +8593,6 @@ footer a {
   margin: 0 auto 14px;
   color: #ffffff;
   width: 90%;
-  max-width: 320px;
 }
 .cd-slider > li h2 {
   font-size: 2.4rem;
@@ -8620,10 +8619,6 @@ footer a {
 .no-touch .cd-slider > li .cd-btn:hover {
   background-color: rgba(0, 0, 0, 0.8);
 }
-@media only screen and (min-width: 768px) {
-  .cd-slider > li h2, .cd-slider > li p {
-    max-width: 520px;
-  }
   .cd-slider > li h2 {
     font-size: 2.4em;
     font-weight: 300;
