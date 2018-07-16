@@ -2626,7 +2626,6 @@ input, select, textarea {
 
 	ol {
 		list-style: decimal;
-		padding-left: 1.25rem;
 	}
 
 		ol li {
