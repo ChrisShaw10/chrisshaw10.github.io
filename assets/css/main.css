@@ -8535,7 +8535,7 @@ footer a {
 .cd-slider-wrapper {
   position: relative;
   width: 100%;
-  height: 75vh;
+  height: 81vh;
   /* hide horizontal scrollbar on IE11 */
   overflow: hidden;
 }
@@ -8646,7 +8646,7 @@ Slider navigation
 -------------------------------- */
 .cd-slider-navigation {
   position: absolute;
-  bottom: 50px;
+  bottom: 1%;
   left: 50%;
   right: auto;
   -webkit-transform: translateX(-50%);
