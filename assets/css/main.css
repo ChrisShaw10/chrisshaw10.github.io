@@ -8763,7 +8763,8 @@ Slider navigation
   }
   .cd-slider-navigation li.selected:first-of-type a {
     /* change custom icon using image sprites */
-    background-color: #000000;
+    background-image: url(https://chrisshaw10.github.io/images/laptop-with-cursor-arrow-on-blank-monitor-screen.png);
+	  background-color: #000000;
   }
   .cd-slider-navigation li:nth-of-type(2) a {
     background-position: -60px 0;
