@@ -8675,10 +8675,14 @@ Slider navigation
   position: relative;
   height: 40px;
   width: 40px;
-  background: url(https://chrisshaw10.github.io/images/cd-icon-navigation.svg) no-repeat -10px -10px;
   border-radius: 50%;
   background-color: #ffffff;
 }
+
+.cd-slider-navigation a:active {
+	background-color: #000000;
+}
+
 .no-touch .cd-slider-navigation a:hover em {
   opacity: 1;
   visibility: visible;
