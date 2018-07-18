@@ -8745,29 +8745,29 @@ Slider navigation
 	  background-color: #000000;
   }
   .cd-slider-navigation li:nth-of-type(2) a {
-    background-position: 10px 10px;
+    background-position: 5px 5px;
   }
   .cd-slider-navigation li.selected:nth-of-type(2) a {
     background-image: url(https://chrisshaw10.github.io/images/screens-modern-variety.png);
-	 background-size: 40px; 
+	 background-size: 30px; 
 	  background-repeat: no-repeat;
 	  background-color: #000000;
   }
   .cd-slider-navigation li:nth-of-type(3) a {
-    background-position: 10px 10px;
+    background-position: 5px 5px;
   }
   .cd-slider-navigation li.selected:nth-of-type(3) a {
     background-image: url(https://chrisshaw10.github.io/images/photo-camera.png);
-	 background-size: 40px; 
+	 background-size: 30px; 
 	  background-repeat: no-repeat;
 	  background-color: #000000;
   }
   .cd-slider-navigation li:nth-of-type(4) a {
-    background-position: 10px 10px;
+    background-position: 5px 5px;
   }
   .cd-slider-navigation li.selected:nth-of-type(4) a {
     background-image: url(https://chrisshaw10.github.io/images/icon.png);
-	 background-size: 40px; 
+	 background-size: 30px; 
 	  background-repeat: no-repeat;
 	  background-color: #000000;
   }
