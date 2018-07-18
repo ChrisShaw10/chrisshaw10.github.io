@@ -8733,10 +8733,6 @@ Slider navigation
   border-top-color: rgba(0, 0, 0, 0.7);
 }
 
-  .cd-slider-navigation a {
-    height: 60px;
-    width: 60px;
-  }
   .cd-slider-navigation li:first-of-type a {
     /* change custom icon using image sprites */
     background-position: 10px 10px;
