@@ -8735,12 +8735,12 @@ Slider navigation
 
   .cd-slider-navigation li:first-of-type a {
     /* change custom icon using image sprites */
-    background-position: 10px 10px;
+    background-position: 5px 5px;
   }
   .cd-slider-navigation li.selected:first-of-type a {
     /* change custom icon using image sprites */
     background-image: url(https://chrisshaw10.github.io/images/laptop-with-cursor-arrow-on-blank-monitor-screen.png);
-	 background-size: 40px; 
+	 background-size: 30px; 
 	  background-repeat: no-repeat;
 	  background-color: #000000;
   }
