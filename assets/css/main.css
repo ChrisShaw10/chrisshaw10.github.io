@@ -8679,7 +8679,7 @@ Slider navigation
   background-color: #ffffff;
 }
 
-.cd-slider-navigation a:active {
+.cd-slider-navigation a:selected {
 	background-color: #000000;
 }
 
