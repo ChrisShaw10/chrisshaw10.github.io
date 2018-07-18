@@ -8731,7 +8731,7 @@ Slider navigation
   border: 5px solid transparent;
   border-top-color: rgba(0, 0, 0, 0.7);
 }
-@media only screen and (min-width: 1170px) {
+
   .cd-slider-navigation a {
     height: 60px;
     width: 60px;
@@ -8765,7 +8765,7 @@ Slider navigation
   .cd-slider-navigation li.selected:nth-of-type(4) a {
     background-color: #000000;
   }
-}
+
 
 /* -------------------------------- 
 
