@@ -8853,6 +8853,7 @@ svg cover layer
   background-size: cover;
   background-position: 50% 50%;
   background-repeat: no-repeat;
+	position: relative;
 }
 
 #header-text {
@@ -8860,5 +8861,7 @@ svg cover layer
 	width: 100%;
 	margin: auto;
 	text-align: center;
+	position: absolute;
+	top: 40%;
 }
 
