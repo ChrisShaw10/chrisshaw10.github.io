@@ -8857,8 +8857,7 @@ svg cover layer
 
 #header-text {
 	background-color: hsla(0, 0%, 100%,0.4);
-	position: absolute;
-	top: 10%;
+	width: 100%;
 	margin: auto;
 	text-align: center;
 }
