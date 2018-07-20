@@ -8854,3 +8854,10 @@ svg cover layer
   background-position: 50% 50%;
   background-repeat: no-repeat;
 }
+
+header > div {
+	display: table;
+	margin-left: auto;
+	margin-right: auto;
+	vertical-align: middle;
+}
