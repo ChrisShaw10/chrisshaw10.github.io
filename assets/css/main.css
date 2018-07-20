@@ -8863,8 +8863,10 @@ svg cover layer
 	text-align: center;
 	position: absolute;
 	top: 40%;
+	padding: 15px;
 }
 
 #header-text p {
 	color: #000000;
+	font-size: 1.5em;
 }
