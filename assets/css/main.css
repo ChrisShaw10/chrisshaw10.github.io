@@ -8855,4 +8855,11 @@ svg cover layer
   background-repeat: no-repeat;
 }
 
+#header-text {
+	background-color: hsla(0, 0%, 100%,0.4);
+	position: absolute;
+	top: 10%;
+	margin: auto;
+	text-align: center;
+}
 
